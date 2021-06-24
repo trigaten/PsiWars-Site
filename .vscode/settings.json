@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "python.pythonPath": "/opt/anaconda3/envs/env-01/bin/python"
 }
